@@ -1,0 +1,19 @@
+div p{
+  color: blue;
+}
+
+ div h2 > p{
+  background-color:Lightcoral;
+}
+
+h2+p{
+  font-weight: Black;
+}
+
+h2~p{
+  font-style: Italic;
+}
+
+
+
+
